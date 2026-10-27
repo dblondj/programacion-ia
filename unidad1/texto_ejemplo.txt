@@ -1,0 +1,3 @@
+La inteligencia artificial es una rama de la informática.
+La programación de la inteligencia artificial usa Python.
+Python es un lenguaje sencillo y la comunidad de Python es enorme.
